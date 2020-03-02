@@ -4,6 +4,7 @@
 
 ## I. 첫번째, 배쉬로 자동설치
 ```
+wget https://raw.githubusercontent.com/jetsonworld/InstallTensorFlow/master/install-tensorflow.sh
 sh install-tensorflow.sh
 ```
 
